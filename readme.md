@@ -13,9 +13,11 @@ Eu sou um pequeno aprendiz! 💻 Eu amo programação e produção musical! Tenh
 #### Aki algumas infos adicionais!
 ### Linguagens mais usadas!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Isqneeh&layout=compact)](https://github.com/Isqneeh/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isqneeh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Lang](https://img.shields.io/github/languages/top/Isqne/isqnetool?color=545454&logo=python&style=plastic)](https://github.com/Isqne/isqnetool)
+[![Lang](https://img.shields.io/github/followers/isqneeh?style=social)](https://github.com/Isqneeh)
+
+[![Melhor Projeto!](https://img.shields.io/github/watchers/isqneeh/grabbertool?label=GrabberTool%20View%27s&style=for-the-badge)](https://github.com/Isqneeh/GrabberTool)
 
 ### Sobre o meu perfil
 

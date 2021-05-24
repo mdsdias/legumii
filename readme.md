@@ -8,7 +8,7 @@
 </badges>
 
 ### Sobre mim
-Eu sou um pequeno aprendiz! 💻 Eu amo programação e produção musical! Tenho agora 13 Anos😄!
+Eu sou um pequeno aprendiz! 💻 Eu amo programação e produção musical! Tenho agora 14Anos😄!
 
 #### Aki algumas infos adicionais!
 ### Linguagens mais usadas!

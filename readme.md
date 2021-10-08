@@ -1,8 +1,4 @@
 <div align="middle" alt="card">
-  <footer align="right">
-		<h3 align""> Olá me chamo legumi </h3>
-	  <h6>sou bem leguminoso u.u</h6>
-  </footer>
+  <img src="https://static.legumii.repl.co/images/legumi.png" alt="logo" width="200px"> 
+  <h6> Wellcome! </h6>
 </div>
-
-<p align="middle">Feito com ❤ by legumii</p>
